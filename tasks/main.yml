@@ -7,3 +7,4 @@
   retries: 5
   delay: 5
   loop: "{{ apt_install_packages }}"
+  when: ansible_os_family == 'Debian'
