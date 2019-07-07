@@ -1,4 +1,7 @@
 [![Build Status](https://travis-ci.com/calvinbui/ansible-apt.svg?branch=master)](https://travis-ci.com/calvinbui/ansible-apt)
+![GitHub release](https://img.shields.io/github/release/calvinbui/ansible-apt.svg)
+![Ansible Quality Score](https://img.shields.io/ansible/quality/35937.svg)
+![Ansible Role](https://img.shields.io/ansible/role/d/35937.svg)
 
 # Ansible Apt
 
